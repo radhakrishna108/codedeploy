@@ -1,4 +1,4 @@
 phases:
   install:
     runtime-versions:
-      java: 1.0
+      java: 1
