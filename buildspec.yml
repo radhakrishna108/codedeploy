@@ -1,4 +1,4 @@
-version: 1
+version: 0.0
 env:
   variables:
     JAVA_HOME: "/usr/lib/jvm/java-8-openjdk-amd64"
